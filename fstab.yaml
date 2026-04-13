@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://author-p157362-e1665743.adobeaemcloud.com/bin/franklin.delivery/akanksha145/aem-forms-ap-demo/main"
+    type: "markup"
+    suffix: ".html"
